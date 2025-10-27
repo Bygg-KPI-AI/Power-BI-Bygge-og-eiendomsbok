@@ -2,7 +2,7 @@
 
 # Power BI: Bygge- og eiendomsbok
 
-[![Install from Microsoft Store][badge]][store]
+[![Install from Microsoft Marketplace][badge]][store]
 
 [badge]: https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logot&logoColor=white
 [store]: https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok
@@ -35,4 +35,4 @@ It also includes 10 charts  in the group 'Byggekostnadsindekser'.
 > >
 > You can also get the [englih version](https://github.com/Bygg-KPI-AI/Power-BI-Construction-and-Real-Estate-Book) of this app.
 
-[![Install from Microsoft Store](https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
+[![Install from Microsoft Marketplace](https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
