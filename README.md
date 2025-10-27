@@ -27,11 +27,12 @@ It also includes 10 charts  in the group 'Byggekostnadsindekser'.
 > [!IMPORTANT]
 > To have access to the app, it might be needed a Power BI Pro license.
 > You have any doubt please send an email to [info@byggkpi.no](mailto:info@byggkpi.no?subject=[Power%20BI]%20Access%20Bygge-%20og%20eiendom%20app).
->
-> You can also get the [englih version](https://github.com/Bygg-KPI-AI/Power-BI-Construction-and-Real-Estate-Book) of this app.
+
 
 
 > [!NOTE]
 > The updating of the datasets is implemented but under testing.
+> >
+> You can also get the [englih version](https://github.com/Bygg-KPI-AI/Power-BI-Construction-and-Real-Estate-Book) of this app.
 
 [![Install from Microsoft Store](https://img.shields.io/badge/Install_from-Microsoft_Store-blue?style=for-the-badge&logoColor=Store-blue)](https://marketplace.microsoft.com/en-us/product/power-bi/byggkpi1713816406537.bygg_og_eiemdombok)
